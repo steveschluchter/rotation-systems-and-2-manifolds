@@ -2,6 +2,8 @@
 
 9.Feb.2018
 
+By: Tyrus Berry (tyrus.berry@gmail.com) and Steve Schluchter (steven.schluchter@gmail.com).
+
 This code has been tested on Matlab 2015-2017.
 
 An implementation of a manifold learning method that uses techniques from topological graph theory.
